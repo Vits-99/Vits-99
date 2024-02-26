@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Vittorio</h1>
-<h3 align="center">A passionate Software Engineer from Italy</h3>
+<h1 align="center">Hi 👋, I'm [@Vits-99](https://twitter.com/Vits-99)</h1>
+<h3 align="center">I'm a Software Engineer from Italy 🇮🇹</h3>
 
 - 📫 How to reach me **vittorio.mayellaro@gmail.com**
 
